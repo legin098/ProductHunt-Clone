@@ -1,14 +1,14 @@
 import React from "react";
 import { Layout } from "../components/layout/Layout";
 
-const Home = () => {
+const CrearCuenta = () => {
   return (
     <div>
       <Layout>
-        <h1>Home</h1>
+        <h1>Crear cuenta</h1>
       </Layout>
     </div>
   );
 };
 
-export default Home;
+export default CrearCuenta;
